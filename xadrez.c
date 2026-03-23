@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    /* Quantidade de casas que cada peça vai andar (definido direto no código) */
     int casasTorre = 5;
     int casasBispo = 5;
     int casasRainha = 8;
