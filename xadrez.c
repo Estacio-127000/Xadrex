@@ -29,7 +29,7 @@ int main(void) {
     }
 
     /* =========================================================
-       RAINHA -> usando DO-WHILE (8 casas para a esquerda)
+       RAINHA -> usando DO-WHILE (8 casas para a esquerda) testando git 
        ========================================================= */
     printf("\nMovimento da Rainha (8 casas para a esquerda):\n");
 
